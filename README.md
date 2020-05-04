@@ -1,7 +1,4 @@
 # Gradient_Generator
-Simple exercise for practicing Javascript 
-
-#js
-#css
-#html
+Create a Gradient and copy it to the clipboard
+https://jeffcol.github.io/Gradient_Generator/
 
