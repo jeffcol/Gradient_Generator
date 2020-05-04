@@ -1,7 +1,5 @@
 # Gradient_Generator
 Simple exercise for practicing Javascript 
 
-#js
-#css
-#html
+https://jeffcol.github.io/Gradient_Generator/
 
