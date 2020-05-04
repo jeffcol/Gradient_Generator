@@ -1,2 +1,5 @@
 # Gradient_Generator
-Simple exercise for practicing Javascript
+Simple exercise for practicing Javascript 
+
+#js
+
