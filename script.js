@@ -12,6 +12,9 @@ let btn = document.querySelector('.btn');
 color1.addEventListener('input', coloring);
 color2.addEventListener('input', coloring);
 
+document.addEventListener('DOMContentLoaded', coloring);
+
+
 function coloring(e) {
 
     let right = color1.value;
@@ -24,7 +27,6 @@ function coloring(e) {
     copyg.textContent = text1;
     btn.setAttribute("data-clipboard-text", text1);
 
-    alert(text1);
     /*data-clipboard-text*/
     
     
