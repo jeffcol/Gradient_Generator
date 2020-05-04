@@ -17,11 +17,20 @@ h1 {
     width: 100%;
 }
 
-h3 {
+h3, .btn {
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
 
+}
+
+.btn {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid rgba(0,0,0,.5);;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
 }
