@@ -2,4 +2,6 @@
 Simple exercise for practicing Javascript 
 
 #js
+#css
+#html
 
